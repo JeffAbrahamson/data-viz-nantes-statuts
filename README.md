@@ -1,1 +1,1 @@
-# data-viz-nantes-statuts
+# Les statuts de DataViz Nantes
